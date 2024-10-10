@@ -1,0 +1,21 @@
+
+.ant-layout-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #001529;
+}
+
+.ant-layout-content {
+    background: #f0f2f5;
+    min-height: 100vh;
+    padding: 24px;
+}
+
+.post-card {
+    margin-bottom: 24px;
+}
+
+.search-bar {
+    margin-bottom: 24px;
+}
